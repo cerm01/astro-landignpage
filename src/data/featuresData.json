@@ -4,35 +4,35 @@
         "title": "BRT",
         "content": "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
         "align": "right",
-        "image": "/images/features1.png"
+        "image": "/images/brt.jpg"
     },
     {
         "id": 1,
         "title": "Trolebus",
         "content": "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
         "align": "left",
-        "image": "/images/features2.png"
+        "image": "/images/trolebus.jpg"
     },
     {
         "id": 1,
         "title": "Tranvia",
         "content": "Stay on top of your nutrition goals with NutriTrack! Our template allows you to track your daily food intake and monitor your progress. Keep an eye on your calorie intake, macronutrient distribution, and water consumption. With NutriTrack, you can make informed decisions about your diet and achieve your health and fitness goals.",
         "align": "right",
-        "image": "/images/features3.png"
+        "image": "/images/tranvia.jpg"
     },
     {
         "id": 1,
         "title": "Metro",
         "content": "Discover new recipes and meal ideas with NutriTrack! Our template features a recipe database where you can store and organize your favorite recipes. Whether you're looking for breakfast inspiration or a healthy dinner option, NutriTrack has you covered. Say goodbye to boring meals and hello to delicious and nutritious dishes!",
         "align": "left",
-        "image": "/images/features4.png"
+        "image": "/images/metro.jpg"
     },
     {
         "id": 1,
         "title": "Tren",
         "content": "Get started on your health and fitness journey with NutriTrack! Our template is designed to help you plan, shop, track, and discover new recipes with ease. Say goodbye to meal planning stress and hello to a healthier, happier you. Take the first step towards a balanced and nutritious diet with NutriTrack today!",
         "align": "right",
-        "image": "/images/features5.png"
+        "image": "/images/tren.jpg"
     },
     {
         "id": 1,
